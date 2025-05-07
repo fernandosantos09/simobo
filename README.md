@@ -79,6 +79,13 @@ Criar um kit didático de fácil transporte e baixo custo que permita:
 #### Trechos a atualizar devido perca de qualidade de imagem
 ---
 
+## 📊 FUNCIONAMENTO FINAL
+
+Funcionamento do projeto SIMOBO, apresentado aos mentores do projeto e professores do IFSP.
+
+[![Funcionamento do projeto final](https://img.youtube.com/vi/j3TJoVdQFzE/0.jpg)](https://youtu.be/j3TJoVdQFzE)
+
+---
 ## 📊 Resultados
 
 - Monitoramento em tempo real funcional.
