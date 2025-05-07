@@ -50,11 +50,11 @@ Criar um kit didático de fácil transporte e baixo custo que permita:
 - Base em madeira para melhor fixação.
 
 **Exemplo de montagem:**  
-![Instalação dos sensores](https://github.com/fernandosantos09/simobo/blob/main/PJI/Relat%C3%B3rio/sensores.jpg)  
+![Instalação dos sensores](https://github.com/fernandosantos09/simobo/blob/main/PJI/Relat%C3%B3rio/sensores.png)  
 
-![Sensor ultrassônico instalado](https://github.com/fernandosantos09/simobo/blob/main/PJI/Relat%C3%B3rio/sensor_ultrassonico.jpg)  
+![Sensor ultrassônico instalado](https://github.com/fernandosantos09/simobo/blob/main/PJI/Relat%C3%B3rio/sensor_ultrassonico.png)  
 
-![Bomba e relé](https://github.com/fernandosantos09/simobo/blob/main/PJI/Relat%C3%B3rio/bomba_rele.jpg) 
+![Bomba e relé](https://github.com/fernandosantos09/simobo/blob/main/PJI/Relat%C3%B3rio/bomba_rele.png)
 
 ![Layout final](https://github.com/fernandosantos09/simobo/blob/main/PJI/Relat%C3%B3rio/layout_final.png)
 
@@ -66,6 +66,7 @@ Criar um kit didático de fácil transporte e baixo custo que permita:
 - Exibição de mensagens como “nível crítico” e “nível máximo”.
 
 **Trecho da programação:**  
+
 ![Programação 1](https://github.com/fernandosantos09/simobo/blob/main/PJI/Relat%C3%B3rio/programacao1.png) 
 
 ![Programação 2](https://github.com/fernandosantos09/simobo/blob/main/PJI/Relat%C3%B3rio/programacao2.png)
@@ -74,6 +75,7 @@ Criar um kit didático de fácil transporte e baixo custo que permita:
 
 ![Programação 4](https://github.com/fernandosantos09/simobo/blob/main/PJI/Relat%C3%B3rio/programacao4.png)
 
+#### Trechos a atualizar devido perca de qualidade de imagem
 ---
 
 ## 📊 Resultados
