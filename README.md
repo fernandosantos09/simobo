@@ -1,6 +1,7 @@
 # KIT SIMOBO – Sistema de Monitoramento e Controle de Nível
 
 Projeto desenvolvido como Trabalho de Conclusão de Curso no Instituto Federal de São Paulo - Campus São José dos Campos, no curso Técnico Integrado em Automação Industrial.
+Palavras-chaves ou habilidades: Eletrônica, montagem eletrônica, solda eletrônica, automação, circuitos elétricos, programação, arduino.
 
 ## 👨‍🔧 Autores
 
