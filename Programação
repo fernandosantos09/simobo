@@ -1,0 +1,73 @@
+# Programação do KIT SIMOBO
+
+Este documento detalha toda a lógica e etapas de programação do projeto **KIT SIMOBO** para controle e monitoramento de nível de fluido utilizando Arduino.
+
+## 💻 Plataforma
+
+A programação foi feita utilizando a **IDE do Arduino** e também testada previamente no **Tinkercad**, onde foi simulado um projeto semelhante para testar funcionalidades e validar o código antes da montagem final.
+
+---
+
+## 🔧 Etapas de Programação
+
+### 1. Programação de Sensores Digitais
+
+Os sensores do tipo **chave boia** foram programados para enviar sinais digitais (0 ou 1) ao microcontrolador Arduino. Eles informam se o fluido atingiu determinado nível no tanque.
+
+### 2. Programação de Sensor Analógico
+
+O sensor **ultrassônico** mede a distância do líquido até o topo do recipiente. Essa distância é convertida em **porcentagem de nível**. A leitura é analógica e interpretada para fornecer um valor compreensível ao usuário.
+
+### 3. Integração dos Sensores
+
+As leituras dos sensores digitais e do sensor ultrassônico são **associadas no código**, de modo que os sensores digitais confirmam as leituras do sensor analógico, garantindo maior precisão e confiabilidade.
+
+---
+
+## ⚙️ Programação da Bomba e Relé
+
+- A **bomba d'água** é controlada por um botão que aciona um **módulo relé**.
+- O código analisa o valor atual do nível e, com base em condições pré-programadas, decide quando ligar ou desligar a bomba.
+
+---
+
+## 📺 Exibição no Display LCD
+
+O display LCD mostra:
+- A porcentagem atual do nível de fluido.
+- Mensagens de status como:
+  - **"Nível Crítico"**
+  - **"Nível Máximo"**
+  - **"Bomba Ligada/Desligada"**
+
+---
+
+## 🧪 Testes com Tinkercad
+
+Utilizou-se o Tinkercad para criar versões digitais do projeto e testar:
+- Leitura de sensores.
+- Simulação da bomba e relé.
+- Condições para acionamento dos atuadores.
+- Conversão de distância (em cm) para porcentagem.
+
+---
+
+## 🖼️ Imagens da Programação
+
+![Programação 1](images/image15.png)  
+![Programação 2](images/image16.png)  
+![Programação 3](images/image20.png)
+
+---
+
+## 🔁 Possibilidades de Expansão
+
+- Monitoramento de múltiplos tanques.
+- Controle via Wi-Fi ou Bluetooth.
+- Interface com sistemas de supervisão industriais.
+
+---
+
+## 🧠 Conclusão
+
+A programação do KIT SIMOBO foi cuidadosamente planejada para garantir precisão nas medições e confiabilidade na automação. A combinação de sensores digitais e analógicos tornou o sistema robusto, ao mesmo tempo que manteve baixo custo e fácil manutenção.
